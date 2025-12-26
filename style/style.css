@@ -1,6 +1,6 @@
 @font-face {
             font-family: 'CC Goth Chic Black';
-            src: url('/fonts/CCGothChic-Black.woff') format('truetype');
+            src: url('../fonts/CCGothChic-Black.woff') format('truetype');
         }
 
 body {
